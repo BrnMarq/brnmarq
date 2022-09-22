@@ -1,8 +1,9 @@
 ## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
+- 🌎 Based on Merida Venezuela 🇻🇪 
+- 🖥 By now only frontend developer, hoping to get more experience in other areas too.
 - 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏... Nothing yet...
-- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Computer Sciencie in he ULA(Universidad de Los Andes)
-- I believe in Debian supremacy [<img src="https://www.debian.org/logos/openlogo-nd.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://www.debian.org/index.es.html)
+- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Computer Sciencie in the ULA(Universidad de Los Andes)
+- I believe in [<img src="https://www.debian.org/logos/openlogo-nd.svg" height="15em" align="center" alt="Debian Logo" title="Debian Logo"/>](https://www.debian.org/index.es.html) Debian supremacy 
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
@@ -26,22 +27,12 @@ Working as a frontend developer!, and studying backend dev too
 	- [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛/𝚒𝚜𝚜𝚞𝚎𝚜/𝟷𝟹𝟼](https://github.com/Raymo111/i3lock-color/issues/136)
 	- [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛/𝚒𝚜𝚜𝚞𝚎𝚜/𝟷𝟻𝟿](https://github.com/Raymo111/i3lock-color/issues/159)
 
-## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+## 🔍 What I've been doing recently
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+## 📊 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 ![Metrics](https://metrics.lecoq.io/BrnMarq?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FCaracas)
 
-
+## 🎵 Check which song I'm listening to!
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mfme5yb4ptqsudsqvjawr4ione&cover_image=true&theme=default&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-<!--
-**BrnMarq/brnmarq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

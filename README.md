@@ -1,8 +1,8 @@
 ### Hi there 👋
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mfme5yb4ptqsudsqvjawr4ione&cover_image=true&theme=default&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 <!--
 **BrnMarq/brnmarq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mfme5yb4ptqsudsqvjawr4ione&cover_image=true&theme=default&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

@@ -1,13 +1,13 @@
 ## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 - 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏... Nothing yet...
-- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙷𝚘𝚗𝚘𝚞𝚛𝚜 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚠𝚒𝚝𝚑 𝙲𝚘-𝚘𝚙 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 𝚆𝚊𝚝𝚎𝚛𝚕𝚘𝚘, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸𝟻
-- 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
+- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Computer Sciencie in he ULA(Universidad de Los Andes)
+- I believe in Debian supremacy [<img src="https://www.debian.org/logos/openlogo-nd.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://www.debian.org/index.es.html)
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 ```yaml
-Developing the CS 136L course (and the PS5 Control Center!)
+Working as a frontend developer!, and studying backend dev too
 ```
 <!-- - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚍𝚘𝚒𝚗𝚐 𝚊𝚗 𝚒𝚗𝚝𝚎𝚛𝚗𝚜𝚑𝚒𝚙 𝚊𝚝 𝚂𝚘𝚗𝚢 𝙿𝚕𝚊𝚢𝚜𝚝𝚊𝚝𝚒𝚘𝚗! -->
 <!-- - 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚊 𝚗𝚎𝚠 [**𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛**](https://github.com/Raymo111/i3lock-color) 𝚛𝚎𝚕𝚎𝚊𝚜𝚎 -->

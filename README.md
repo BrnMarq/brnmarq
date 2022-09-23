@@ -28,8 +28,9 @@ Working as a frontend developer!, and studying backend dev too
 	- [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛/𝚒𝚜𝚜𝚞𝚎𝚜/𝟷𝟻𝟿](https://github.com/Raymo111/i3lock-color/issues/159)
 
 ## 🔍 What I've been doing recently
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
 
 ## 📊 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 ![Metrics](https://metrics.lecoq.io/BrnMarq?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FCaracas)

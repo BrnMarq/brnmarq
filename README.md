@@ -29,15 +29,15 @@ Working as a frontend developer!, and studying backend dev too
 
 ## 🔍 What I've been doing recently
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [crypto-verga/ed-manager](https://github.com/crypto-verga/ed-manager)
-2. ⬆️ Pushed 1 commit(s) to [BrnMarq/sudoku](https://github.com/BrnMarq/sudoku)
-3. 📔 Created new repository [BrnMarq/sudoku](https://github.com/BrnMarq/sudoku)
-4. ⬆️ Pushed 1 commit(s) to [BrnMarq/brnmarq](https://github.com/BrnMarq/brnmarq)
+1. ⬆️ Pushed 1 commit(s) to [BrnMarq/sudoku](https://github.com/BrnMarq/sudoku)
+2. ⬆️ Pushed 1 commit(s) to [crypto-verga/ed-manager](https://github.com/crypto-verga/ed-manager)
+3. ⬆️ Pushed 1 commit(s) to [BrnMarq/sudoku](https://github.com/BrnMarq/sudoku)
+4. 📔 Created new repository [BrnMarq/sudoku](https://github.com/BrnMarq/sudoku)
 5. ⬆️ Pushed 1 commit(s) to [BrnMarq/brnmarq](https://github.com/BrnMarq/brnmarq)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 16th, 2022, 5:03:35 PM
+Last Updated: Sunday, October 16th, 2022, 5:50:58 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📊 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜

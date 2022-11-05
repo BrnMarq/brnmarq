@@ -2,7 +2,7 @@
 - 🌎 Based on Merida Venezuela 🇻🇪 
 - 🖥 By now only frontend developer, hoping to get more experience in other areas too.
 - 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏... Nothing yet...
-- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Computer Sciencie in the ULA(Universidad de Los Andes)
+- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Computer Science in the ULA(Universidad de Los Andes)
 - I believe in [<img src="https://www.debian.org/logos/openlogo-nd.svg" height="15em" align="center" alt="Debian Logo" title="Debian Logo"/>](https://www.debian.org/index.es.html) Debian supremacy 
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘

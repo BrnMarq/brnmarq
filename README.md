@@ -29,15 +29,15 @@ Working as a frontend developer!, and studying backend dev too
 
 ## 🔍 What I've been doing recently
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [BrnMarq/brnmarq](https://github.com/BrnMarq/brnmarq)
-2. ⬆️ Pushed 1 commit(s) to [BrnMarq/brnmarq](https://github.com/BrnMarq/brnmarq)
-3. ⬆️ Pushed 1 commit(s) to [BrnMarq/copy_sudoku](https://github.com/BrnMarq/copy_sudoku)
-4. 📔 Created new repository [BrnMarq/copy_sudoku](https://github.com/BrnMarq/copy_sudoku)
-5. ⬆️ Pushed 1 commit(s) to [BrnMarq/sudoku](https://github.com/BrnMarq/sudoku)
+1. ❗️ Opened issue [#1190](https://github.com/carloscuesta/gitmoji/issues/1190) in [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)
+2. 💪 Opened PR [#1](https://github.com/BrnMarq/gitmoji/pull/1) in [BrnMarq/gitmoji](https://github.com/BrnMarq/gitmoji)
+3. ⬆️ Pushed 2 commit(s) to [BrnMarq/sudoku](https://github.com/BrnMarq/sudoku)
+4. ⬆️ Pushed 1 commit(s) to [BrnMarq/brnmarq](https://github.com/BrnMarq/brnmarq)
+5. ⬆️ Pushed 1 commit(s) to [BrnMarq/brnmarq](https://github.com/BrnMarq/brnmarq)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 12th, 2022, 1:36:57 AM
+Last Updated: Sunday, November 13th, 2022, 1:35:52 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📊 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜

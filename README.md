@@ -29,15 +29,15 @@ Working as a frontend developer!, and studying backend dev too
 
 ## 🔍 What I've been doing recently
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#1190](https://github.com/carloscuesta/gitmoji/issues/1190) in [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)
-2. 💪 Opened PR [#1](https://github.com/BrnMarq/gitmoji/pull/1) in [BrnMarq/gitmoji](https://github.com/BrnMarq/gitmoji)
-3. ⬆️ Pushed 2 commit(s) to [BrnMarq/sudoku](https://github.com/BrnMarq/sudoku)
-4. ⬆️ Pushed 1 commit(s) to [BrnMarq/brnmarq](https://github.com/BrnMarq/brnmarq)
-5. ⬆️ Pushed 1 commit(s) to [BrnMarq/brnmarq](https://github.com/BrnMarq/brnmarq)
+1. 📔 Created new repository [BrnMarq/electron-app](https://github.com/BrnMarq/electron-app)
+2. ⭐ Starred [BrnMarq/brnmarq](https://github.com/BrnMarq/brnmarq)
+3. ⭐ Starred [BrnMarq/PokemonApp](https://github.com/BrnMarq/PokemonApp)
+4. ⭐ Starred [BrnMarq/jest-learning](https://github.com/BrnMarq/jest-learning)
+5. ❗️ Opened issue [#1190](https://github.com/carloscuesta/gitmoji/issues/1190) in [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 13th, 2022, 1:35:52 AM
+Last Updated: Monday, November 14th, 2022, 1:27:20 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📊 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜

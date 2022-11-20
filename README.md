@@ -37,7 +37,7 @@ Working as a frontend developer!, and studying backend dev too
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 19th, 2022, 1:27:42 AM
+Last Updated: Sunday, November 20th, 2022, 1:38:13 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📊 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜

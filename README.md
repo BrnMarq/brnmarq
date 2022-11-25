@@ -31,13 +31,13 @@ Working as a frontend developer!, and studying backend dev too
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [GolfinCorp/golfincorp-frontend](https://github.com/GolfinCorp/golfincorp-frontend)
 2. ⬆️ Pushed 1 commit(s) to [GolfinCorp/golfincorp-frontend](https://github.com/GolfinCorp/golfincorp-frontend)
-3. ⬆️ Pushed 2 commit(s) to [GolfinCorp/golfincorp-frontend](https://github.com/GolfinCorp/golfincorp-frontend)
+3. ⬆️ Pushed 1 commit(s) to [GolfinCorp/golfincorp-frontend](https://github.com/GolfinCorp/golfincorp-frontend)
 4. ⬆️ Pushed 1 commit(s) to [GolfinCorp/golfincorp-frontend](https://github.com/GolfinCorp/golfincorp-frontend)
-5. 📔 Created new repository [BrnMarq/advanced-js](https://github.com/BrnMarq/advanced-js)
+5. ⬆️ Pushed 2 commit(s) to [GolfinCorp/golfincorp-frontend](https://github.com/GolfinCorp/golfincorp-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 24th, 2022, 1:23:13 AM
+Last Updated: Friday, November 25th, 2022, 1:18:12 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📊 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜

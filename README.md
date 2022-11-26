@@ -29,15 +29,15 @@ Working as a frontend developer!, and studying backend dev too
 
 ## 🔍 What I've been doing recently
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GolfinCorp/golfincorp-frontend](https://github.com/GolfinCorp/golfincorp-frontend)
-2. ⬆️ Pushed 1 commit(s) to [GolfinCorp/golfincorp-frontend](https://github.com/GolfinCorp/golfincorp-frontend)
-3. ⬆️ Pushed 1 commit(s) to [GolfinCorp/golfincorp-frontend](https://github.com/GolfinCorp/golfincorp-frontend)
+1. ⬆️ Pushed 1 commit(s) to [GolfinCorp/golfincorp-backend](https://github.com/GolfinCorp/golfincorp-backend)
+2. ⬆️ Pushed 1 commit(s) to [BrnMarq/advanced-js](https://github.com/BrnMarq/advanced-js)
+3. ⬆️ Pushed 1 commit(s) to [BrnMarq/advanced-js](https://github.com/BrnMarq/advanced-js)
 4. ⬆️ Pushed 1 commit(s) to [GolfinCorp/golfincorp-frontend](https://github.com/GolfinCorp/golfincorp-frontend)
-5. ⬆️ Pushed 2 commit(s) to [GolfinCorp/golfincorp-frontend](https://github.com/GolfinCorp/golfincorp-frontend)
+5. ⬆️ Pushed 1 commit(s) to [GolfinCorp/golfincorp-frontend](https://github.com/GolfinCorp/golfincorp-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 25th, 2022, 1:18:12 AM
+Last Updated: Saturday, November 26th, 2022, 1:15:39 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📊 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜

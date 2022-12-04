@@ -29,15 +29,15 @@ Working as a frontend developer!, and studying backend dev too
 
 ## 🔍 What I've been doing recently
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GolfinCorp/frontend-ts](https://github.com/GolfinCorp/frontend-ts)
-2. ⬆️ Pushed 1 commit(s) to [BrnMarq/advanced-js](https://github.com/BrnMarq/advanced-js)
+1. ⬆️ Pushed 1 commit(s) to [BrnMarq/advanced-js](https://github.com/BrnMarq/advanced-js)
+2. ⬆️ Pushed 1 commit(s) to [GolfinCorp/frontend-ts](https://github.com/GolfinCorp/frontend-ts)
 3. ⬆️ Pushed 1 commit(s) to [BrnMarq/advanced-js](https://github.com/BrnMarq/advanced-js)
 4. ⬆️ Pushed 1 commit(s) to [BrnMarq/advanced-js](https://github.com/BrnMarq/advanced-js)
 5. ⬆️ Pushed 1 commit(s) to [BrnMarq/advanced-js](https://github.com/BrnMarq/advanced-js)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, December 3rd, 2022, 1:09:48 AM
+Last Updated: Sunday, December 4th, 2022, 1:14:44 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📊 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜

@@ -37,7 +37,7 @@ Working as a frontend developer!, and studying backend dev too
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 29th, 2023, 1:18:10 AM
+Last Updated: Monday, January 30th, 2023, 1:09:10 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📊 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜

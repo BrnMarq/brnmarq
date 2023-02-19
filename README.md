@@ -29,15 +29,15 @@ Working as a frontend developer!, and studying backend dev too
 
 ## 🔍 What I've been doing recently
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [BrnMarq/vector-csharp](https://github.com/BrnMarq/vector-csharp)
-2. ⬆️ Pushed 1 commit(s) to [BrnMarq/PokemonApp](https://github.com/BrnMarq/PokemonApp)
-3. ⬆️ Pushed 1 commit(s) to [BrnMarq/PokemonApp](https://github.com/BrnMarq/PokemonApp)
-4. ⬆️ Pushed 1 commit(s) to [BrnMarq/advanced-js](https://github.com/BrnMarq/advanced-js)
-5. ⬆️ Pushed 1 commit(s) to [GolfinCorp/frontend-ts](https://github.com/GolfinCorp/frontend-ts)
+1. 📔 Created new repository [BrnMarq/csharp-inheritance](https://github.com/BrnMarq/csharp-inheritance)
+2. 📔 Created new repository [BrnMarq/csharp-inheritance](https://github.com/BrnMarq/csharp-inheritance)
+3. 📔 Created new repository [BrnMarq/vector-csharp](https://github.com/BrnMarq/vector-csharp)
+4. ⬆️ Pushed 1 commit(s) to [BrnMarq/PokemonApp](https://github.com/BrnMarq/PokemonApp)
+5. ⬆️ Pushed 1 commit(s) to [BrnMarq/PokemonApp](https://github.com/BrnMarq/PokemonApp)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 18th, 2023, 1:15:04 AM
+Last Updated: Sunday, February 19th, 2023, 1:17:25 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📊 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜

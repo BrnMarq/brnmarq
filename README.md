@@ -29,15 +29,15 @@ Working as a frontend developer!, and studying backend dev too
 
 ## 🔍 What I've been doing recently
 <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [BrnMarq/SoundSharp](https://github.com/BrnMarq/SoundSharp)
+1. ⬆️ Pushed 1 commit(s) to [BrnMarq/TuProductoOnline](https://github.com/BrnMarq/TuProductoOnline)
 2. 🤝 Became collaborator on [BrnMarq/SoundSharp](https://github.com/BrnMarq/SoundSharp)
 3. 🤝 Became collaborator on [BrnMarq/SoundSharp](https://github.com/BrnMarq/SoundSharp)
-4. 📔 Created new repository [BrnMarq/SoundSharp](https://github.com/BrnMarq/SoundSharp)
-5. ⬆️ Pushed 1 commit(s) to [BrnMarq/TuProductoOnline](https://github.com/BrnMarq/TuProductoOnline)
+4. 🤝 Became collaborator on [BrnMarq/SoundSharp](https://github.com/BrnMarq/SoundSharp)
+5. 📔 Created new repository [BrnMarq/SoundSharp](https://github.com/BrnMarq/SoundSharp)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 7th, 2023, 1:12:20 AM
+Last Updated: Monday, May 8th, 2023, 1:05:52 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📊 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜

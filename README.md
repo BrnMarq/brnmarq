@@ -31,13 +31,13 @@ Working as a frontend developer!, and studying backend dev too
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [mafer1707/SoundSharp](https://github.com/mafer1707/SoundSharp)
 2. ⬆️ Pushed 1 commit(s) to [mafer1707/SoundSharp](https://github.com/mafer1707/SoundSharp)
-3. ⬆️ Pushed 1 commit(s) to [BrnMarq/TuProductoOnline](https://github.com/BrnMarq/TuProductoOnline)
-4. 🤝 Became collaborator on [BrnMarq/SoundSharp](https://github.com/BrnMarq/SoundSharp)
-5. 🤝 Became collaborator on [BrnMarq/SoundSharp](https://github.com/BrnMarq/SoundSharp)
+3. ⬆️ Pushed 1 commit(s) to [mafer1707/SoundSharp](https://github.com/mafer1707/SoundSharp)
+4. ⬆️ Pushed 1 commit(s) to [mafer1707/SoundSharp](https://github.com/mafer1707/SoundSharp)
+5. ⬆️ Pushed 1 commit(s) to [BrnMarq/TuProductoOnline](https://github.com/BrnMarq/TuProductoOnline)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 10th, 2023, 1:06:53 AM
+Last Updated: Thursday, May 11th, 2023, 1:07:52 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📊 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜

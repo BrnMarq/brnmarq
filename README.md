@@ -30,14 +30,14 @@ Working as a frontend developer!, and studying backend dev too
 ## 🔍 What I've been doing recently
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [mafer1707/SoundSharp](https://github.com/mafer1707/SoundSharp)
-2. ⬆️ Pushed 1 commit(s) to [mafer1707/SoundSharp](https://github.com/mafer1707/SoundSharp)
+2. ⬆️ Pushed 2 commit(s) to [mafer1707/SoundSharp](https://github.com/mafer1707/SoundSharp)
 3. ⬆️ Pushed 1 commit(s) to [mafer1707/SoundSharp](https://github.com/mafer1707/SoundSharp)
 4. ⬆️ Pushed 1 commit(s) to [mafer1707/SoundSharp](https://github.com/mafer1707/SoundSharp)
 5. ⬆️ Pushed 1 commit(s) to [mafer1707/SoundSharp](https://github.com/mafer1707/SoundSharp)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 18th, 2023, 1:07:47 AM
+Last Updated: Friday, May 19th, 2023, 1:09:13 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📊 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜

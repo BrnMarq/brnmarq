@@ -29,15 +29,15 @@ Working as a frontend developer!, and studying backend dev too
 
 ## 🔍 What I've been doing recently
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [mafer1707/SoundSharp](https://github.com/mafer1707/SoundSharp)
-2. ⬆️ Pushed 2 commit(s) to [mafer1707/SoundSharp](https://github.com/mafer1707/SoundSharp)
-3. ⬆️ Pushed 1 commit(s) to [mafer1707/SoundSharp](https://github.com/mafer1707/SoundSharp)
+1. 💬 Commented on [#74](https://github.com/dgurkaynak/slack-poker-planner/issues/74#issuecomment-1599615543) in [dgurkaynak/slack-poker-planner](https://github.com/dgurkaynak/slack-poker-planner)
+2. ⬆️ Pushed 1 commit(s) to [mafer1707/SoundSharp](https://github.com/mafer1707/SoundSharp)
+3. ⬆️ Pushed 2 commit(s) to [mafer1707/SoundSharp](https://github.com/mafer1707/SoundSharp)
 4. ⬆️ Pushed 1 commit(s) to [mafer1707/SoundSharp](https://github.com/mafer1707/SoundSharp)
 5. ⬆️ Pushed 1 commit(s) to [mafer1707/SoundSharp](https://github.com/mafer1707/SoundSharp)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 20th, 2023, 1:12:58 AM
+Last Updated: Wednesday, June 21st, 2023, 1:15:32 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📊 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜

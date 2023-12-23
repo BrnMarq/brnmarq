@@ -29,12 +29,10 @@ Working as a frontend developer!, and studying backend dev too
 
 ## 🔍 What I've been doing recently
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [BrnMarq/node-tests](https://github.com/BrnMarq/node-tests)
-2. ⬆️ Pushed 1 commit(s) to [BrnMarq/node-tests](https://github.com/BrnMarq/node-tests)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 22nd, 2023, 1:00:34 AM
+Last Updated: Saturday, December 23rd, 2023, 12:58:33 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📊 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜

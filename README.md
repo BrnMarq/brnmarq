@@ -30,12 +30,14 @@ Working as a frontend developer!, and studying backend dev too
 ## 🔍 What I've been doing recently
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [BrnMarq/solitaire-sandwich](https://github.com/BrnMarq/solitaire-sandwich)
-2. 📔 Created new repository [BrnMarq/solitaire-sandwich](https://github.com/BrnMarq/solitaire-sandwich)
-3. 📔 Created new repository [BrnMarq/cpp-data-structures](https://github.com/BrnMarq/cpp-data-structures)
+2. ⬆️ Pushed 1 commit(s) to [BrnMarq/solitaire-sandwich](https://github.com/BrnMarq/solitaire-sandwich)
+3. ⬆️ Pushed 1 commit(s) to [BrnMarq/solitaire-sandwich](https://github.com/BrnMarq/solitaire-sandwich)
+4. ⬆️ Pushed 1 commit(s) to [BrnMarq/solitaire-sandwich](https://github.com/BrnMarq/solitaire-sandwich)
+5. 📔 Created new repository [BrnMarq/solitaire-sandwich](https://github.com/BrnMarq/solitaire-sandwich)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 12th, 2024, 12:58:39 AM
+Last Updated: Tuesday, February 13th, 2024, 12:58:39 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📊 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜

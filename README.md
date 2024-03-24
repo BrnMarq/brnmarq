@@ -29,15 +29,15 @@ Working as a frontend developer!, and studying backend dev too
 
 ## 🔍 What I've been doing recently
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [BrnMarq/solitaire-sandwich](https://github.com/BrnMarq/solitaire-sandwich)
-2. ⬆️ Pushed 1 commit(s) to [BrnMarq/solitaire-sandwich](https://github.com/BrnMarq/solitaire-sandwich)
+1. 📔 Created new repository [BrnMarq/binary-trees-cpp](https://github.com/BrnMarq/binary-trees-cpp)
+2. ⭐ Starred [olaracode/battleship-js](https://github.com/olaracode/battleship-js)
 3. ⬆️ Pushed 1 commit(s) to [BrnMarq/solitaire-sandwich](https://github.com/BrnMarq/solitaire-sandwich)
 4. ⬆️ Pushed 1 commit(s) to [BrnMarq/solitaire-sandwich](https://github.com/BrnMarq/solitaire-sandwich)
-5. 📔 Created new repository [BrnMarq/solitaire-sandwich](https://github.com/BrnMarq/solitaire-sandwich)
+5. ⬆️ Pushed 1 commit(s) to [BrnMarq/solitaire-sandwich](https://github.com/BrnMarq/solitaire-sandwich)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, March 23rd, 2024, 12:57:04 AM
+Last Updated: Sunday, March 24th, 2024, 1:04:06 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📊 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜

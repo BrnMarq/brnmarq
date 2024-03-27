@@ -29,15 +29,15 @@ Working as a frontend developer!, and studying backend dev too
 
 ## 🔍 What I've been doing recently
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [BrnMarq/test-cmake-template](https://github.com/BrnMarq/test-cmake-template)
+1. ⬆️ Pushed 1 commit(s) to [BrnMarq/binary-trees-cpp](https://github.com/BrnMarq/binary-trees-cpp)
 2. ⬆️ Pushed 1 commit(s) to [BrnMarq/binary-trees-cpp](https://github.com/BrnMarq/binary-trees-cpp)
-3. 🤝 Became collaborator on [BrnMarq/binary-trees-cpp](https://github.com/BrnMarq/binary-trees-cpp)
+3. ⬆️ Pushed 1 commit(s) to [BrnMarq/binary-trees-cpp](https://github.com/BrnMarq/binary-trees-cpp)
 4. ⬆️ Pushed 1 commit(s) to [BrnMarq/binary-trees-cpp](https://github.com/BrnMarq/binary-trees-cpp)
-5. 📔 Created new repository [BrnMarq/binary-trees-cpp](https://github.com/BrnMarq/binary-trees-cpp)
+5. 📔 Created new repository [BrnMarq/test-cmake-template](https://github.com/BrnMarq/test-cmake-template)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 26th, 2024, 12:58:23 AM
+Last Updated: Wednesday, March 27th, 2024, 12:58:28 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📊 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜

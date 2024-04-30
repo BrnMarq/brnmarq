@@ -29,15 +29,15 @@ Working as a frontend developer!, and studying backend dev too
 
 ## 🔍 What I've been doing recently
 <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [BrnMarq/truco](https://github.com/BrnMarq/truco)
-2. 🤝 Became collaborator on [BrnMarq/truco](https://github.com/BrnMarq/truco)
+1. ⬆️ Pushed 1 commit(s) to [BrnMarq/truco](https://github.com/BrnMarq/truco)
+2. ⬆️ Pushed 1 commit(s) to [BrnMarq/truco](https://github.com/BrnMarq/truco)
 3. ⬆️ Pushed 1 commit(s) to [BrnMarq/truco](https://github.com/BrnMarq/truco)
 4. ⬆️ Pushed 1 commit(s) to [BrnMarq/truco](https://github.com/BrnMarq/truco)
 5. ⬆️ Pushed 1 commit(s) to [BrnMarq/truco](https://github.com/BrnMarq/truco)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 29th, 2024, 1:01:55 AM
+Last Updated: Tuesday, April 30th, 2024, 1:00:32 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📊 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜

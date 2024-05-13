@@ -32,12 +32,12 @@ Working as a frontend developer!, and studying backend dev too
 1. ⬆️ Pushed 1 commit(s) to [BrnMarq/truco](https://github.com/BrnMarq/truco)
 2. ⬆️ Pushed 1 commit(s) to [BrnMarq/truco](https://github.com/BrnMarq/truco)
 3. ⬆️ Pushed 1 commit(s) to [BrnMarq/truco](https://github.com/BrnMarq/truco)
-4. ⬆️ Pushed 2 commit(s) to [BrnMarq/truco](https://github.com/BrnMarq/truco)
+4. ⬆️ Pushed 1 commit(s) to [BrnMarq/truco](https://github.com/BrnMarq/truco)
 5. ⬆️ Pushed 1 commit(s) to [BrnMarq/truco](https://github.com/BrnMarq/truco)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 12th, 2024, 1:07:05 AM
+Last Updated: Monday, May 13th, 2024, 1:04:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📊 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜

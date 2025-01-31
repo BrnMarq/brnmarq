@@ -29,15 +29,10 @@ Working as a frontend developer!, and studying backend dev too
 
 ## 🔍 What I've been doing recently
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Breixosepi/database](https://github.com/Breixosepi/database)
-2. ⬆️ Pushed 1 commit(s) to [Breixosepi/database](https://github.com/Breixosepi/database)
-3. ⬆️ Pushed 1 commit(s) to [BrnMarq/medicine-backend](https://github.com/BrnMarq/medicine-backend)
-4. ⬆️ Pushed 1 commit(s) to [Breixosepi/database](https://github.com/Breixosepi/database)
-5. ⬆️ Pushed 1 commit(s) to [BrnMarq/medicine-backend](https://github.com/BrnMarq/medicine-backend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 30th, 2025, 1:14:47 AM
+Last Updated: Friday, January 31st, 2025, 1:16:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📊 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜

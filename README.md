@@ -31,13 +31,13 @@ Working as a frontend developer!, and studying backend dev too
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [BrnMarq/null-pointers](https://github.com/BrnMarq/null-pointers)
 2. ⬆️ Pushed 1 commit(s) to [BrnMarq/null-pointers](https://github.com/BrnMarq/null-pointers)
-3. ⬆️ Pushed 2 commit(s) to [BrnMarq/null-pointers](https://github.com/BrnMarq/null-pointers)
-4. 🤝 Became collaborator on [BrnMarq/null-pointers](https://github.com/BrnMarq/null-pointers)
-5. 📔 Created new repository [BrnMarq/null-pointers](https://github.com/BrnMarq/null-pointers)
+3. ⬆️ Pushed 1 commit(s) to [BrnMarq/null-pointers](https://github.com/BrnMarq/null-pointers)
+4. ⬆️ Pushed 1 commit(s) to [BrnMarq/null-pointers](https://github.com/BrnMarq/null-pointers)
+5. ⬆️ Pushed 1 commit(s) to [BrnMarq/null-pointers](https://github.com/BrnMarq/null-pointers)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 10th, 2025, 1:25:13 AM
+Last Updated: Sunday, May 11th, 2025, 1:41:24 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📊 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜

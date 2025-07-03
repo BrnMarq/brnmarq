@@ -29,14 +29,10 @@ Working as a frontend developer!, and studying backend dev too
 
 ## 🔍 What I've been doing recently
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [BrnMarq/null-pointers](https://github.com/BrnMarq/null-pointers)
-2. ⬆️ Pushed 1 commit(s) to [BrnMarq/null-pointers](https://github.com/BrnMarq/null-pointers)
-3. ⬆️ Pushed 1 commit(s) to [BrnMarq/null-pointers](https://github.com/BrnMarq/null-pointers)
-4. ⬆️ Pushed 1 commit(s) to [BrnMarq/null-pointers](https://github.com/BrnMarq/null-pointers)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 2nd, 2025, 1:41:08 AM
+Last Updated: Thursday, July 3rd, 2025, 1:41:25 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📊 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜

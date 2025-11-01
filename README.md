@@ -32,12 +32,12 @@ Working as a frontend developer!, and studying backend dev too
 1. ⬆️ Pushed undefined commit(s) to [BrnMarq/tic-tac-toe-backend](https://github.com/BrnMarq/tic-tac-toe-backend)
 2. ⬆️ Pushed undefined commit(s) to [BrnMarq/tic-tac-toe-frontend](https://github.com/BrnMarq/tic-tac-toe-frontend)
 3. ⬆️ Pushed undefined commit(s) to [BrnMarq/tic-tac-toe-backend](https://github.com/BrnMarq/tic-tac-toe-backend)
-4. ⬆️ Pushed undefined commit(s) to [BrnMarq/tic-tac-toe-backend](https://github.com/BrnMarq/tic-tac-toe-backend)
-5. ⬆️ Pushed undefined commit(s) to [BrnMarq/tic-tac-toe-frontend](https://github.com/BrnMarq/tic-tac-toe-frontend)
+4. ⬆️ Pushed undefined commit(s) to [BrnMarq/tic-tac-toe-frontend](https://github.com/BrnMarq/tic-tac-toe-frontend)
+5. ⬆️ Pushed undefined commit(s) to [BrnMarq/tic-tac-toe-backend](https://github.com/BrnMarq/tic-tac-toe-backend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 31st, 2025, 1:27:23 AM
+Last Updated: Saturday, November 1st, 2025, 1:39:18 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📊 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜

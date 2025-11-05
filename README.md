@@ -30,14 +30,14 @@ Working as a frontend developer!, and studying backend dev too
 ## 🔍 What I've been doing recently
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [BrnMarq/tic-tac-toe-backend](https://github.com/BrnMarq/tic-tac-toe-backend)
-2. ⬆️ Pushed undefined commit(s) to [BrnMarq/tic-tac-toe-frontend](https://github.com/BrnMarq/tic-tac-toe-frontend)
-3. ⬆️ Pushed undefined commit(s) to [BrnMarq/tic-tac-toe-backend](https://github.com/BrnMarq/tic-tac-toe-backend)
-4. ⬆️ Pushed undefined commit(s) to [BrnMarq/tic-tac-toe-frontend](https://github.com/BrnMarq/tic-tac-toe-frontend)
-5. ⬆️ Pushed undefined commit(s) to [BrnMarq/tic-tac-toe-backend](https://github.com/BrnMarq/tic-tac-toe-backend)
+2. ⬆️ Pushed undefined commit(s) to [BrnMarq/tic-tac-toe-backend](https://github.com/BrnMarq/tic-tac-toe-backend)
+3. ⬆️ Pushed undefined commit(s) to [BrnMarq/tic-tac-toe-frontend](https://github.com/BrnMarq/tic-tac-toe-frontend)
+4. ⬆️ Pushed undefined commit(s) to [BrnMarq/tic-tac-toe-backend](https://github.com/BrnMarq/tic-tac-toe-backend)
+5. ⬆️ Pushed undefined commit(s) to [BrnMarq/tic-tac-toe-frontend](https://github.com/BrnMarq/tic-tac-toe-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 4th, 2025, 1:36:29 AM
+Last Updated: Wednesday, November 5th, 2025, 1:37:17 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📊 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜

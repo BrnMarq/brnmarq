@@ -30,14 +30,14 @@ Working as a frontend developer!, and studying backend dev too
 ## 🔍 What I've been doing recently
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [BrnMarq/electronic-asset-manager-backend](https://github.com/BrnMarq/electronic-asset-manager-backend)
-2. ⬆️ Pushed undefined commit(s) to [BrnMarq/electronic-asset-manager-backend](https://github.com/BrnMarq/electronic-asset-manager-backend)
+2. ⬆️ Pushed undefined commit(s) to [BrnMarq/electronic-asset-manager-frontend](https://github.com/BrnMarq/electronic-asset-manager-frontend)
 3. ⬆️ Pushed undefined commit(s) to [BrnMarq/electronic-asset-manager-backend](https://github.com/BrnMarq/electronic-asset-manager-backend)
 4. ⬆️ Pushed undefined commit(s) to [BrnMarq/electronic-asset-manager-backend](https://github.com/BrnMarq/electronic-asset-manager-backend)
-5. ⬆️ Pushed undefined commit(s) to [BrnMarq/electronic-asset-manager-backend](https://github.com/BrnMarq/electronic-asset-manager-backend)
+5. ⬆️ Pushed undefined commit(s) to [BrnMarq/electronic-asset-manager-frontend](https://github.com/BrnMarq/electronic-asset-manager-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 30th, 2025, 1:47:50 AM
+Last Updated: Monday, December 1st, 2025, 1:55:17 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📊 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜

@@ -29,15 +29,10 @@ Working as a frontend developer!, and studying backend dev too
 
 ## 🔍 What I've been doing recently
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [BrnMarq/electronic-asset-manager-frontend-final](https://github.com/BrnMarq/electronic-asset-manager-frontend-final)
-2. ⬆️ Pushed undefined commit(s) to [BrnMarq/electronic-asset-manager-backend-final](https://github.com/BrnMarq/electronic-asset-manager-backend-final)
-3. ⬆️ Pushed undefined commit(s) to [BrnMarq/electronic-asset-manager-backend-final](https://github.com/BrnMarq/electronic-asset-manager-backend-final)
-4. ⬆️ Pushed undefined commit(s) to [BrnMarq/electronic-asset-manager-backend-final](https://github.com/BrnMarq/electronic-asset-manager-backend-final)
-5. ⬆️ Pushed undefined commit(s) to [BrnMarq/electronic-asset-manager-frontend](https://github.com/BrnMarq/electronic-asset-manager-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 1st, 2026, 1:54:58 AM
+Last Updated: Friday, January 2nd, 2026, 1:46:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📊 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜

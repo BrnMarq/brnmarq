@@ -32,11 +32,10 @@ Working as a frontend developer!, and studying backend dev too
 1. ⬆️ Pushed undefined commit(s) to [BrnMarq/nvim](https://github.com/BrnMarq/nvim)
 2. ⬆️ Pushed undefined commit(s) to [BrnMarq/nvim](https://github.com/BrnMarq/nvim)
 3. ⬆️ Pushed undefined commit(s) to [BrnMarq/nvim](https://github.com/BrnMarq/nvim)
-4. ⬆️ Pushed undefined commit(s) to [BrnMarq/nvim](https://github.com/BrnMarq/nvim)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 28th, 2026, 1:54:56 AM
+Last Updated: Sunday, March 1st, 2026, 2:24:33 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📊 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜

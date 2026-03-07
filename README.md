@@ -30,11 +30,10 @@ Working as a frontend developer!, and studying backend dev too
 ## 🔍 What I've been doing recently
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [BrnMarq/nvim](https://github.com/BrnMarq/nvim)
-2. ⬆️ Pushed undefined commit(s) to [BrnMarq/nvim](https://github.com/BrnMarq/nvim)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, March 6th, 2026, 2:05:40 AM
+Last Updated: Saturday, March 7th, 2026, 1:58:56 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📊 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜

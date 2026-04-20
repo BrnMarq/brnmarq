@@ -29,15 +29,15 @@ Working as a frontend developer!, and studying backend dev too
 
 ## 🔍 What I've been doing recently
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [BrnMarq/scql](https://github.com/BrnMarq/scql)
-2. ⬆️ Pushed undefined commit(s) to [BrnMarq/scql](https://github.com/BrnMarq/scql)
-3. ⬆️ Pushed undefined commit(s) to [BrnMarq/scql](https://github.com/BrnMarq/scql)
-4. ⬆️ Pushed undefined commit(s) to [BrnMarq/scql](https://github.com/BrnMarq/scql)
-5. ⬆️ Pushed undefined commit(s) to [BrnMarq/scql](https://github.com/BrnMarq/scql)
+1. ⬆️ Pushed undefined commit(s) to [BrnMarq/finance-tracker-api](https://github.com/BrnMarq/finance-tracker-api)
+2. ⬆️ Pushed undefined commit(s) to [BrnMarq/finance-tracker-api](https://github.com/BrnMarq/finance-tracker-api)
+3. ⬆️ Pushed undefined commit(s) to [BrnMarq/finance-tracker-api](https://github.com/BrnMarq/finance-tracker-api)
+4. ⬆️ Pushed undefined commit(s) to [BrnMarq/finance-tracker-api](https://github.com/BrnMarq/finance-tracker-api)
+5. ⬆️ Pushed undefined commit(s) to [BrnMarq/finance-tracker-api](https://github.com/BrnMarq/finance-tracker-api)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, April 19th, 2026, 2:43:04 AM
+Last Updated: Monday, April 20th, 2026, 2:43:38 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📊 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜

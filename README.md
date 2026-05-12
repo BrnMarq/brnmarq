@@ -29,7 +29,7 @@ Working as a frontend developer!, and studying backend dev too
 
 ## 🔍 What I've been doing recently
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [BrnMarq/finance-tracker-api](https://github.com/BrnMarq/finance-tracker-api)
+1. ⬆️ Pushed undefined commit(s) to [BrnMarq/scql](https://github.com/BrnMarq/scql)
 2. ⬆️ Pushed undefined commit(s) to [BrnMarq/finance-tracker-api](https://github.com/BrnMarq/finance-tracker-api)
 3. ⬆️ Pushed undefined commit(s) to [BrnMarq/finance-tracker-api](https://github.com/BrnMarq/finance-tracker-api)
 4. ⬆️ Pushed undefined commit(s) to [BrnMarq/finance-tracker-api](https://github.com/BrnMarq/finance-tracker-api)
@@ -37,7 +37,7 @@ Working as a frontend developer!, and studying backend dev too
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 11th, 2026, 3:33:26 AM
+Last Updated: Tuesday, May 12th, 2026, 3:20:43 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📊 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜

@@ -29,15 +29,15 @@ Working as a frontend developer!, and studying backend dev too
 
 ## 🔍 What I've been doing recently
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [BrnMarq/ledcom](https://github.com/BrnMarq/ledcom)
-2. ⬆️ Pushed undefined commit(s) to [BrnMarq/ledcom](https://github.com/BrnMarq/ledcom)
-3. ⬆️ Pushed undefined commit(s) to [BrnMarq/ledcom](https://github.com/BrnMarq/ledcom)
-4. ⬆️ Pushed undefined commit(s) to [BrnMarq/ledcom](https://github.com/BrnMarq/ledcom)
-5. ⬆️ Pushed undefined commit(s) to [BrnMarq/ledcom](https://github.com/BrnMarq/ledcom)
+1. ⬆️ Pushed undefined commit(s) to [BrnMarq/finvez](https://github.com/BrnMarq/finvez)
+2. ⬆️ Pushed undefined commit(s) to [BrnMarq/finvez](https://github.com/BrnMarq/finvez)
+3. ⬆️ Pushed undefined commit(s) to [BrnMarq/finvez](https://github.com/BrnMarq/finvez)
+4. ⬆️ Pushed undefined commit(s) to [BrnMarq/finvez](https://github.com/BrnMarq/finvez)
+5. ⬆️ Pushed undefined commit(s) to [BrnMarq/finvez](https://github.com/BrnMarq/finvez)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 27th, 2026, 3:51:47 AM
+Last Updated: Thursday, May 28th, 2026, 3:37:44 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📊 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜

@@ -29,15 +29,15 @@ Working as a frontend developer!, and studying backend dev too
 
 ## 🔍 What I've been doing recently
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [BrnMarq/l-process-manager](https://github.com/BrnMarq/l-process-manager)
-2. ⬆️ Pushed undefined commit(s) to [BrnMarq/finvez](https://github.com/BrnMarq/finvez)
-3. ⬆️ Pushed undefined commit(s) to [BrnMarq/finvez](https://github.com/BrnMarq/finvez)
-4. ⬆️ Pushed undefined commit(s) to [BrnMarq/finvez](https://github.com/BrnMarq/finvez)
-5. ⬆️ Pushed undefined commit(s) to [BrnMarq/finvez](https://github.com/BrnMarq/finvez)
+1. ⬆️ Pushed undefined commit(s) to [BrnMarq/nvim](https://github.com/BrnMarq/nvim)
+2. ⬆️ Pushed undefined commit(s) to [BrnMarq/nvim](https://github.com/BrnMarq/nvim)
+3. ⬆️ Pushed undefined commit(s) to [BrnMarq/nvim](https://github.com/BrnMarq/nvim)
+4. ⬆️ Pushed undefined commit(s) to [BrnMarq/nvim](https://github.com/BrnMarq/nvim)
+5. ⬆️ Pushed undefined commit(s) to [BrnMarq/l-process-manager](https://github.com/BrnMarq/l-process-manager)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 1st, 2026, 4:06:13 AM
+Last Updated: Tuesday, June 2nd, 2026, 3:59:59 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📊 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜

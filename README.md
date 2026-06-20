@@ -29,7 +29,7 @@ Working as a frontend developer!, and studying backend dev too
 
 ## 🔍 What I've been doing recently
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [BrnMarq/finvez](https://github.com/BrnMarq/finvez)
+1. ⬆️ Pushed undefined commit(s) to [BrnMarq/nvim](https://github.com/BrnMarq/nvim)
 2. ⬆️ Pushed undefined commit(s) to [BrnMarq/finvez](https://github.com/BrnMarq/finvez)
 3. ⬆️ Pushed undefined commit(s) to [BrnMarq/finvez](https://github.com/BrnMarq/finvez)
 4. ⬆️ Pushed undefined commit(s) to [BrnMarq/finvez](https://github.com/BrnMarq/finvez)
@@ -37,7 +37,7 @@ Working as a frontend developer!, and studying backend dev too
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 19th, 2026, 4:19:32 AM
+Last Updated: Saturday, June 20th, 2026, 3:40:48 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📊 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
